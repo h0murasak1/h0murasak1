@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Farhan Fatahillah</h1>
-<h3 align="center">Saya Adalah Mahasiswa Di Universitas Esa Unggul</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&pause=1000&color=7D7C7C&center=true&vCenter=true&random=false&width=900&height=40&lines=I'm+Farhan+Fatahillah.;U+Can+Call+Me+Hans;Student+Developer+at+Esa+Unggul+University" alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0murasak1&label=Profile%20views&color=0e75b6&style=flat" alt="h0murasak1" /> </p>
 
